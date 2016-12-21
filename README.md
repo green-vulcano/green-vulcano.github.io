@@ -18,5 +18,4 @@ Find us at:
 * IoT-Team: mailto:iot-dev@greenvulcano.com
 
 ## Powered by:
-![Karaf Logo](karaf-logo.png)
-![IntelliJIdea Logo](logo_IntelliJIDEA.png)
+<img src="karaf-logo.png" width="300px"/> <img src="logo_IntelliJIDEA.png" width="300px"/>
