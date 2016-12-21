@@ -19,4 +19,4 @@ Find us at:
 
 ## Powered by:
 ![Karaf Logo](karaf-logo.png)
-![IntelliJIdea Logo] (logo_IntelliJIDEA.png)
+![IntelliJIdea Logo](logo_IntelliJIDEA.png)
